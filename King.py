@@ -28,7 +28,7 @@ try:
 except:
     os.system('pip2 install lolcat')
 
-logo = "'\n\x1b[1;91m' ##:::'##:'##::::'##::::'###::::'##::: ##:\n'\x1b[1;92m'##::'##:: ##:::: ##:::'## ##::: ###:: ##:\n'\x1b[1;91m'##:'##::: ##:::: ##::'##:. ##:: ####: ##:\n'\x1b[1;97m'#####:::: #########:'##:::. ##: ## ## ##:\n'\x1b[1;93m'##. ##::: ##.... ##: #########: ##. ####:\n'\x1b[1;94m'##:. ##:: ##:::: ##: ##.... ##: ##:. ###:\n'\x1b[1;92m'##::. ##: ##:::: ##: ##:::: ##: ##::. ##:\n'\x1b[1;91m'..::::..::..:::::..::..:::::..::..::::..::\n\t\n'\x1b[1;92m'   Author      :     SUBHAN-XD     \n'\x1b[1;91m'   Github      :     SubhanXKhan  \n'\x1b[1;96m'   FB ID       :     Subhan Khan\n'\x1b[1;93m'   TOOL TYPE   :     PAID COMMANDS\n'\x1b[1;91m'   WAP NUMBER  :     03189339494            \n"
+logo = "'\n\x1b[1;91m' ##:::'##:'##::::'##::::'###::::'##::: ##:\n'\x1b[1;92m'##::'##:: ##:::: ##:::'## ##::: ###:: ##:\n'\x1b[1;91m'##:'##::: ##:::: ##::'##:. ##:: ####: ##:\n'\x1b[1;97m'#####:::: #########:'##:::. ##: ## ## ##:\n'\x1b[1;93m'##. ##::: ##.... ##: #########: ##. ####:\n'\x1b[1;94m'##:. ##:: ##:::: ##: ##.... ##: ##:. ###:\n'\x1b[1;92m'##::. ##: ##:::: ##: ##:::: ##: ##::. ##:\n'\x1b[1;91m'..::::..::..:::::..::..:::::..::..::::..::\n\t\n'\x1b[1;92m'   Author      :     ABDULLAH-XD     \n'\x1b[1;91m'   Github      :     ABDULLAH  \n'\x1b[1;96m'   FB ID       :     ¢∆|® |\n'\x1b[1;93m'   TOOL TYPE   :     PAID COMMANDS\n'\x1b[1;91m'   WAP NUMBER  :     03105194032            \n"
 dec = '2'
 server = '2'
 rsauser = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
@@ -69,7 +69,7 @@ def main_apv():
         print ''
         print '             Agar Ap Na Subscription Kar Le Ha To'
         raw_input('  Termux Sa Exit Kar Ka Phir Sa Cammonds Lagio Thanks')
-        os.system('xdg-open https://wa.me/+923189339494')
+        os.system('xdg-open https://wa.me/03105194032')
 
     r1 = requests.get('https://github.com/SSBCLONE/Abdullah/blob/main/Approval').text
     if key1 in r1:
@@ -93,7 +93,7 @@ def main_apv():
         print ''
         print '             Agar Ap Na Subscription Kar Le Ha To'
         raw_input('  Termux Sa Exit Kar Ka Phir Sa Cammonds Lagio Thanks')
-        os.system('xdg-open https://wa.me/+923189339494')
+        os.system('xdg-open https://wa.me/03105194032')
 
 
 def main_system():
